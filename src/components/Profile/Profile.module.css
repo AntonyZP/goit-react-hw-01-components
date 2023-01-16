@@ -1,6 +1,8 @@
 .profile{
   width: 450px;
   padding-top: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
   border: 1px solid rgb(133, 126, 126);
   border-radius: 2px;
   background-color: rgb(218, 230, 230);
