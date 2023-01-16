@@ -1,21 +1,28 @@
-.description {
-    text-align: center;
-  }
-
 .profile{
-    background-color: rgb(218, 230, 230);
+  width: 450px;
+  padding-top: 20px;
+  border: 1px solid rgb(133, 126, 126);
+  border-radius: 2px;
+  background-color: rgb(218, 230, 230);
+}
+
+.description {
+  text-align: center;
+
 }
 
 .avatar {
-  border-radius: 50%;
   width: 300px;
-  border: 1px solid rgb(206, 197, 197);
+  margin-bottom: 15px;
+  border-radius: 50%;
+  border: 1px solid rgb(194, 184, 184);
 }
 
 .name {
+  margin: 0;
+  margin-bottom: 15px;
   font-size: 32px;
   font-weight: 400;
-  margin-bottom: 30px;
 }
 
 .tag {
@@ -28,7 +35,7 @@
 
 .location {
   margin: 0;
-
+  margin-bottom: 15px;
   font-size: 26px;
   font-weight: 500;
   color: rgb(126, 132, 134);
@@ -47,10 +54,11 @@
   justify-content: center;
 
   gap: 10px;
-  width: 164px;
-  height: 164px;
-  background-color: rgb(212, 226, 243);
-  border: 1px solid rgb(206, 197, 197);
+  width: 150px;
+  height: 150px;
+  border: 1px solid rgb(85, 83, 83);
+  background-color: rgb(177, 179, 184);
+  
 }
 .label {
   font-size: 16px;
